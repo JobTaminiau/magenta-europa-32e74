@@ -21,8 +21,6 @@ seo:
       value: This is the UI kit page
 layout: page
 ---
-# Academic Publications
-
 As much as possible each citation links to the author-accepted pdf file or the preprint. It includes links to the journal DOI for the version of record as well as the open access versions, as well as links to any supplementary materials, data sets, analyses etc, hosted on OSF or GitHub.
 
 ### Preprints, Manuscripts, Etc.
