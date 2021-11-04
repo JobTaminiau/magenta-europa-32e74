@@ -26,11 +26,6 @@ layout: page
 
 As much as possible each citation links to the author-accepted pdf file or the preprint. It includes links to the journal DOI for the version of record as well as the open access versions, as well as links to any supplementary materials, data sets, analyses etc, hosted on OSF or GitHub.
 
-### Book Chapters
-
-*   Here are some bullet points
-*   Here are some bullet points
-
 ### Preprints, Manuscripts, Etc.
 
 *   Byrne, J., **Taminiau, J.,** & Nyangon, J. (submitted, 2021). Manuscript under review.
