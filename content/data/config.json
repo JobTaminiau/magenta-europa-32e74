@@ -11,10 +11,6 @@
                 "url": "/"
             },
             {
-                "label": "Projects",
-                "url": "/generic/"
-            },
-            {
                 "label": "Blog",
                 "url": "#",
                 "new_window": false,
