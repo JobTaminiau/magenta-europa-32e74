@@ -14,8 +14,6 @@ sections:
     section_id: Contact Information
     type: section_content
     content: |
-      ## How to reach me:
-
       Email: jt@freefutures.org
 
       Twitter: [jobtaminiau](https://twitter.com/jobtaminiau)
