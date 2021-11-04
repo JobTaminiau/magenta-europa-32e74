@@ -23,7 +23,7 @@ sections:
         ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
     image_alt: test
   - title: My blog posts
-    section_id: lorem-ipsum
+    section_id: Blog posts
     image_alt: lorem-ipsum
     content: |
       # Blog Posts
