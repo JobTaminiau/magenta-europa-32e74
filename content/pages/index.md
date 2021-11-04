@@ -14,13 +14,13 @@ sections:
     section_id: Contact Information
     type: section_content
     content: |2
-                                                                         Email: jt@freefutures.org
+        Email: jt@freefutures.org
 
-      Twitter: jobtaminiau
+        Twitter: jobtaminiau 
 
-      Github: JobTaminiau
+        Github: JobTaminiau
 
-      ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
+        ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
     image_alt: test
   - title: lorem-ipsum
     section_id: lorem-ipsum
