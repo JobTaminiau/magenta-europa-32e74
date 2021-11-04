@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Automatic Rooftop PV Classification
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
