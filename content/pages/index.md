@@ -13,8 +13,8 @@ sections:
   - title: 'How to reach me:'
     section_id: Contact Information
     type: section_content
-    content: |
-      Email: jt@freefutures.org
+    content: |2
+                                                                         Email: jt@freefutures.org
 
       Twitter: jobtaminiau
 
