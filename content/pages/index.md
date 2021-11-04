@@ -14,7 +14,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      Email: jt@freefutures.org![](/images/pngwing.com%20\(1\).png)
+      Email: jt@freefutures.org
     image_alt: test
   - title: Recent Posts
     section_id: posts
