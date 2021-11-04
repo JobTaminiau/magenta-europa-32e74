@@ -14,7 +14,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      Email: jt@freefutures.org
+      ![](/images/pngwing.com.png)Email: jt@freefutures.org
 
       twitter: jobtaminiau
     image_alt: test
