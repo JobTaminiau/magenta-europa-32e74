@@ -18,9 +18,9 @@ sections:
 
       Email: jt@freefutures.org
 
-      ###### Twitter: jobtaminiau
+      Twitter: [jobtaminiau](https://twitter.com/jobtaminiau)
 
-      Github: JobTaminiau
+      Github: [JobTaminiau](https://github.com/JobTaminiau)
 
       ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
     image_alt: test
