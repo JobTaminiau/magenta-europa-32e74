@@ -38,8 +38,8 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 ### 2020
 
-*   **Taminiau, J.**, & Byrne, J. (2020). City-scale urban sustainability: spatiotemporal mapping of distributed solar power for New York City. WIREs Energy Environ, 2020: 9:e374. <https://doi.org/10.1002/wene.374.>  
+*   **Taminiau, J.**, & Byrne, J. (2020). City-scale urban sustainability: spatiotemporal mapping of distributed solar power for New York City. WIREs Energy Environ, 2020: 9:e374. <https://doi.org/10.1002/wene.374.>
 
 ### 2019
 
-*   Taminiau, J., Banks, J.P., Bleviss, D., & Byrne, J. (2020). Advancing transformative sustainability: A comparative analysis of electricity service and supply innovators in the United States. WIREs Energy Environ. <https://doi.org/10.1002/wene.337.> 
+*   **Taminiau, J.,** Banks, J.P., Bleviss, D., & Byrne, J. (2019). Advancing transformative sustainability: A comparative analysis of electricity service and supply innovators in the United States. WIREs Energy Environ. <https://doi.org/10.1002/wene.337.>
