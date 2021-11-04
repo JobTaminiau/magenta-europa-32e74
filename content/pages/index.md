@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
+    title: Job Taminiau
     subtitle: >
       ### I’m a postgraduate researcher working on identifying practical
       strategies for transformative change to meet our pressing energy and
