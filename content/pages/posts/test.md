@@ -1,5 +1,5 @@
 ---
-title: Automatic Rooftop PV Classification
+title: Install Energy Plus on Google Colab
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
