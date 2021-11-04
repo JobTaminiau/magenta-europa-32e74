@@ -2,7 +2,7 @@
 title: Projects
 subtitle: Selection of My Projects
 seo:
-  title: Just a Generic Page
+  title: Projects
   description: This is a generic page
   extra:
     - name: 'og:type'
