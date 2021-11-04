@@ -9,7 +9,7 @@ sections:
       strategies for transformative change to meet our pressing energy and
       climate change challenges.&#xA;
     image: /images/Job-Taminiau.jpg
-    image_alt: Author avatar
+    image_alt: Job Taminiau
   - title: Text
     section_id: intro
     type: section_content
