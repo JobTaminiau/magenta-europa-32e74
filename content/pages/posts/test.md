@@ -10,7 +10,10 @@ seo:
   robots: []
   extra: []
 layout: post
-excerpt: 'My '
+excerpt: >-
+  Several of my projects rely on Energy Plus software to identify energy saving
+  opportunities in buildings. This post details how to use Energy Plus within
+  Google Colab.
 ---
 title: "Install Energy Plus on Google Colab"
 date: 2021-09-23T22:47:30-04:00
