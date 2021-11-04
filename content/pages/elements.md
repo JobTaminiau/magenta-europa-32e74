@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Academic Publications
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
