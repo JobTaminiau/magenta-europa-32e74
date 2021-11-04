@@ -36,15 +36,19 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 ### Preprints, Manuscripts, Etc.
 
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
+*   Byrne, J., **Taminiau, J.,** & Nyangon, J. (submitted, 2021). Manuscript under review. 
+
+*   Byrne, J., Lund, P., & **Taminiau, J.** (submitted, 2021). Editorial under review.
+
+*   **Taminiau, J., **Byrne, J., Kim, J., Kim, M-H, & Seo, J. (submitted, 2021). Manuscript under review.
 
 ### 2021
 
-*   **Taminiau, J.,** Byrne, J., Kim, J., Kim. M-H, Seo (2021). “Infrastructure-scale sustainable energy planning in the cityscape: Transforming urban energy metabolism in East Asia.” *WIREs Energy Environ*. 2021;e397. <https://doi.org/10.1002/wene.397>
+*   **Taminiau, J.,** Byrne, J., Kim, J., Kim. M-H, & Seo, J. (2021). “Infrastructure-scale sustainable energy planning in the cityscape: Transforming urban energy metabolism in East Asia.” *WIREs Energy Environ*. 2021;e397. <https://doi.org/10.1002/wene.397>
+*   **Taminiau, J., **Byrne, J., Carretero, D.S, Shin, S., & Xu, J. (2021). [Risk mitigation in energy efficiency retrofit projects using automated performance control.](https://www.intechopen.com/books/sustainable-energy-investment-technical-market-and-policy-innovations-to-address-risk/risk-mitigation-in-energy-efficiency-retrofit-projects-using-automated-performance-control) In J. Nyangon & J. Byrne (Eds). Sustainable energy investment: Technical, market and policy innovations to address risk. London, UK: IntechOpen.
+
+<!---->
+
 
 
 
