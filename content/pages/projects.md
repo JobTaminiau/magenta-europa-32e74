@@ -3,7 +3,7 @@ title: Projects
 subtitle: Selection of My Projects
 seo:
   title: Projects
-  description: This is a generic page
+  description: Job Taminiau Projects
   extra:
     - name: 'og:type'
       value: website
