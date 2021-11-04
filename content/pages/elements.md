@@ -30,9 +30,6 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 *   Here are some bullet points
 *   Here are some bullet points
-*   This is a really long bullet point that wraps to multiple lines. Nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
-*   Here are some bullet points
-*   Here are some bullet points
 
 ### Preprints, Manuscripts, Etc.
 
