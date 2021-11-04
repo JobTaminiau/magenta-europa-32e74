@@ -44,4 +44,8 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 ### 2019
 
-*   **Taminiau, J.,** Banks, J.P., Bleviss, D., & Byrne, J. (2019). Advancing transformative sustainability: A comparative analysis of electricity service and supply innovators in the United States. WIREs Energy Environ. <https://doi.org/10.1002/wene.337.>
+*   **Taminiau, J.,** Banks, J.P., Bleviss, D., & Byrne, J. (2019). Advancing transformative sustainability: A comparative analysis of electricity service and supply innovators in the United States. WIREs Energy Environ. [https://doi.org/10.1002/wene.337.](https://doi.org/10.1002/wene.337.2018Fishedick,)
+
+2018
+
+*   Fishedick, M., Byrne, J., Hermwille, L., **Taminiau, J.**, Stelzer, F., & Vallentin, D. (2018). [Reflections on the state of climate change policy: from COP to cities.](https://freefutures.org/wp-content/uploads/2019/01/2018\_RethinkEnviro_eds-Lele-Brond_Byrne_Mace_MartAlier_Ch9-ClimateChangePolicy_FischByrneHermTaminLuhmannSteltzerVallen.pdf) In: Rethinking Environmentalism: Linking Justice, Sustainability and Diversity. Lele, S., Brondizio, E.S., Byrne, J., Mace, G.M., & Martinez-Allier J. (Eds.). Strüngmann Forum Reports, vol. 23, J. Lupp, series editor. Cambridge, MA: MIT Press.
