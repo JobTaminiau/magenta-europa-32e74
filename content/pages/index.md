@@ -4,7 +4,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >
+      ### I’m a postgraduate researcher working on identifying practical
+      strategies for transformative change to meet our pressing energy and
+      climate change challenges.&#xA;
     image: /images/Job-Taminiau.jpg
     image_alt: Author avatar
   - title: Text
