@@ -13,14 +13,16 @@ sections:
   - title: 'How to reach me:'
     section_id: Contact Information
     type: section_content
-    content: |2
-        Email: jt@freefutures.org
+    content: |
+      ## How to reach me:
 
-        Twitter: jobtaminiau 
+      Email: jt@freefutures.org
 
-        Github: JobTaminiau
+      ###### Twitter: jobtaminiau
 
-        ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
+      Github: JobTaminiau
+
+      ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
     image_alt: test
   - title: My blog posts
     section_id: Blog posts
