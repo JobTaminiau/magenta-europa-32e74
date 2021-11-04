@@ -10,7 +10,7 @@ sections:
       climate change challenges.&#xA;
     image: /images/Job-Taminiau.jpg
     image_alt: Job Taminiau
-  - title: Text
+  - title: 'How to reach me:'
     section_id: intro
     type: section_content
     content: |
