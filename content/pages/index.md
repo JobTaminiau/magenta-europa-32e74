@@ -22,11 +22,6 @@ sections:
 
       ORCID: [0000-0002-1535-3517](https://orcid.org/0000-0002-1535-3517)
     image_alt: test
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    has_more_link: true
-    more_link_text: lorem-ipsum
-    type: section_posts
   - title: Recent Posts
     section_id: posts
     type: section_posts
