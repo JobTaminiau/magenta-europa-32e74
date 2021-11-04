@@ -12,8 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
-
 title: "Install Energy Plus on Google Colab"
 date: 2021-09-23T22:47:30-04:00
 categories:
