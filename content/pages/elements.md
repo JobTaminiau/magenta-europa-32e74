@@ -29,7 +29,7 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 *   Byrne, J., **Taminiau, J.,** & Nyangon, J. (submitted, 2021). American Policy Conflict in the Hothouse: Republican Cancel Politics and Polycentric Rebellion. Manuscript under review.
 
-*   Byrne, J., Lund, P., & **Taminiau, J.** (submitted, 2021). Rapid Climate Transformation Requires Transformative Policy and Science Thinking. Editorial under review.
+*   Byrne, J., Lund, P., & **Taminiau, J.** (submitted, 2021). Rapid Climate Transformation Requires Transformative Policy and Science Thinking. Editorial.
 
 *   **Taminiau, J.**, Byrne, J., Kim, J., Kim, M-H, & Seo, J. (submitted, 2021). Inferential- or Measurement-based Methods to Estimate ‘Solar City’ Potential. Manuscript under review.
 
