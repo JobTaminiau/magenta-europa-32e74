@@ -25,7 +25,7 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 ### Preprints, Manuscripts, Etc.
 
-*   **Taminiau, J.**, Byrne, J., & Lund, P. (draft). Postion paper for COP26. Rapid Climate Transformation Requires Transformative Policy and Science Thinking.** **
+*   **Taminiau, J.**, Byrne, J., & Lund, P. (draft). Postion paper for COP26. Rapid Climate Transformation Requires Transformative Policy and Science Thinking.
 
 *   Byrne, J., **Taminiau, J.,** & Nyangon, J. (submitted, 2021). American Policy Conflict in the Hothouse: Republican Cancel Politics and Polycentric Rebellion. Manuscript under review.
 
