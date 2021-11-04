@@ -38,16 +38,3 @@ As much as possible each citation links to the author-accepted pdf file or the p
 
 *   **Taminiau, J.,** Byrne, J., Kim, J., Kim. M-H, & Seo, J. (2021). “Infrastructure-scale sustainable energy planning in the cityscape: Transforming urban energy metabolism in East Asia.” *WIREs Energy Environ*. 2021;e397. <https://doi.org/10.1002/wene.397>
 *   **Taminiau, J.**, Byrne, J., Carretero, D.S, Shin, S., & Xu, J. (2021). [Risk mitigation in energy efficiency retrofit projects using automated performance control.](https://www.intechopen.com/books/sustainable-energy-investment-technical-market-and-policy-innovations-to-address-risk/risk-mitigation-in-energy-efficiency-retrofit-projects-using-automated-performance-control) In J. Nyangon & J. Byrne (Eds). Sustainable energy investment: Technical, market and policy innovations to address risk. London, UK: IntechOpen.
-
-<!---->
-
-### Inline Code and Code Blocks
-
-Blocks of code are either fenced by lines with `three back-ticks`, or are indented `with four spaces`.
-
-    <!-- Some example CSS code -->
-    h1 {
-        font-size: 2.5rem;
-    }
-
-Inline `code` has `back-ticks around` it.
