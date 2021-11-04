@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Just a generic subtitle for the page
+subtitle: Selection of My Projects
 seo:
   title: Just a Generic Page
   description: This is a generic page
