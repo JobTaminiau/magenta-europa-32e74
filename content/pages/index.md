@@ -11,7 +11,7 @@ sections:
     image: /images/Job-Taminiau.jpg
     image_alt: Job Taminiau
   - title: 'How to reach me:'
-    section_id: Contact
+    section_id: Contact Information
     type: section_content
     content: |
       Email: jt@freefutures.org
